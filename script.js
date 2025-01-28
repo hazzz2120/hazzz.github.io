@@ -1,5 +1,5 @@
 // Đặt thời gian giao thừa 2025
-const newYearTime = new Date('January 28, 2025 00:00:00').getTime();
+const newYearTime = new Date('January 29, 2025 00:00:00').getTime();
 
 // Hàm cập nhật bộ đếm
 function updateCountdown() {
